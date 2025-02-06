@@ -21,6 +21,7 @@ public class day1 {
 		System.out.println("hello");//automation code
 		System.out.println("change code");//automation code
 		System.out.println("change code2");//automation code
+		System.out.println("change code3 from user 1");//automation code
 		//force the test to fail
 		Assert.assertTrue(false);
 	}
