@@ -9,6 +9,7 @@ public class day2 {
 	public void ploan()
 	{
 		System.out.println("good");//automation code
+		System.out.println("branch code change");
 	}
 	
 	// Before running any test in "Test":"Personal Loan"
